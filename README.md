@@ -22,12 +22,12 @@
 
 ## 👋 About Me
 
-Software Engineering graduate based in Muscat, Oman. I enjoy working across the full stack and mobile applications — from design, to backend logic, to the database underneath — and I'm currently looking for opportunities to bring that to a team.
+Software Engineering graduate based in Muscat, Oman. I enjoy working across the full stack and mobile applications from design, to backend logic, to the database underneath & I'm currently looking for opportunities to bring that to a team.
 
 - Graduating from the **University of Technology and Applied Sciences**, Oman (2021 – 2026)
 - **Currently open to:** Software Engineering roles
-- **Building depth in:** Software Architecture · Frontend Development · Databases · AI · Data Science
-- **Ask me about:** OOP, full-stack app design, or itinerary/travel-planning apps (it's a bit of a theme 😄)
+- **Building depth in:** Software Architecture · Frontend & Backend Development · Databases · AI · Data Science
+- **Ask me about:** Full-stack development, mobile apps, or how to turn a class project into something people actually use.
 
 <br/>
 
