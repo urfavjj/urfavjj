@@ -25,7 +25,7 @@
 
 ## 👋 About Me
 
-I'm a Software Engineering graduate who likes owning a problem end-to-end — UI, backend logic, and the database underneath. I learn fast, ship real things (not just class assignments), and I'm currently applying that at **Codeline by Rihal**.
+I'm a Software Engineering graduate who likes owning a problem end-to-end UI, backend logic, and the database underneath. I learn fast, ship real things (not just class assignments).
 
 ```java
 public class JokhaAlHarthy implements SoftwareEngineer {
@@ -39,41 +39,9 @@ public class JokhaAlHarthy implements SoftwareEngineer {
 ```
 
 - 🎓 BSc Software Engineering, University of Technology and Applied Sciences (2021 – 2026)
-- 💼 Software Engineer @ **Codeline by Rihal** — building production software right now
 - 🚀 Shipped 6+ real projects: mobile apps, AI-powered planners, and full-stack web platforms
 - 🌱 Currently deepening: Software Architecture · AI & Data Science
 - 💬 Ask me about full-stack development, mobile apps, or turning a class project into something people actually use
-
-<br/>
-
-## 💼 Experience
-
-<table>
-<tr><td width="4"></td><td>
-
-**Software Engineer** — Codeline by Rihal
-`06/2026 – Present`
-
-</td></tr>
-<tr><td width="4"></td><td>
-
-**Software Engineer Internship** — Rihal Data Migration and Services LLC
-`07/2025 – 08/2025`
-
-</td></tr>
-<tr><td width="4"></td><td>
-
-**Generative AI Internship** — Creativity Fourth
-`01/2026`
-
-</td></tr>
-<tr><td width="4"></td><td>
-
-**Technical Support IT Internship** — Ministry of Agriculture, Fisheries and Water Resources
-`01/2026 – 02/2026`
-
-</td></tr>
-</table>
 
 <br/>
 
