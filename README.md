@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Jokha Al-Harthy banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,50:20365E,100:2E86AB&height=220&section=header&text=Hi,%20I'm%20Jokha%20Al-Harthy&fontSize=46&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Software%20Engineering%20Graduate%20%C2%B7%20Full-Stack%20%26%20Mobile%20Developer&descAlignY=62&descSize=18&descColor=B8D9E8" width="100%" alt="Jokha Al-Harthy banner"/>
 
 <br/>
 
