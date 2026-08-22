@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,50:20365E,100:2E86AB&height=220&section=header&text=Hi,%20I'm%20Jokha%20Al-Harthy&fontSize=46&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Software%20Engineering%20Graduate%20%C2%B7%20Full-Stack%20%26%20Mobile%20Developer&descAlignY=62&descSize=18&descColor=B8D9E8" width="100%" alt="Jokha Al-Harthy banner"/>
+<img src="./assets/banner.png" width="100%" alt="Jokha Al-Harthy banner"/>
 
 <br/>
 
@@ -25,15 +25,12 @@
 
 ## 👋 About Me
 
-```java
-public class JokhaAlHarthy {
-    private String role = "Software Engineering Graduate";
-    private String base = "Muscat, Oman";
-    private String[] focus = {"Full-Stack Dev", "Mobile Apps", "AI-powered tools"};
+I'm a Software Engineering graduate who likes owning a problem end-to-end — UI, backend logic, and the database underneath. I learn fast, ship real things (not just class assignments), and I'm currently applying that at **Codeline by Rihal**.
 
-    public String[] currentlyLearning() {
-        return new String[] {"Software Architecture", "AI & Data Science"};
-    }
+```java
+public class JokhaAlHarthy implements SoftwareEngineer {
+    String base = "Muscat, Oman";
+    String[] strengths = {"Full-Stack Dev", "Mobile Apps", "AI-powered Tools"};
 
     public boolean openToWork() {
         return true;
@@ -41,10 +38,42 @@ public class JokhaAlHarthy {
 }
 ```
 
-- 🎓 Graduating from the **University of Technology and Applied Sciences**, Oman (2021 – 2026)
-- 💼 **Currently:** Software Engineer at Codeline by Rihal
-- 🌱 **Building depth in:** Software Architecture · Databases · AI · Data Science
-- 💬 **Ask me about:** full-stack development, mobile apps, or turning a class project into something people actually use
+- 🎓 BSc Software Engineering, University of Technology and Applied Sciences (2021 – 2026)
+- 💼 Software Engineer @ **Codeline by Rihal** — building production software right now
+- 🚀 Shipped 6+ real projects: mobile apps, AI-powered planners, and full-stack web platforms
+- 🌱 Currently deepening: Software Architecture · AI & Data Science
+- 💬 Ask me about full-stack development, mobile apps, or turning a class project into something people actually use
+
+<br/>
+
+## 💼 Experience
+
+<table>
+<tr><td width="4"></td><td>
+
+**Software Engineer** — Codeline by Rihal
+`06/2026 – Present`
+
+</td></tr>
+<tr><td width="4"></td><td>
+
+**Software Engineer Internship** — Rihal Data Migration and Services LLC
+`07/2025 – 08/2025`
+
+</td></tr>
+<tr><td width="4"></td><td>
+
+**Generative AI Internship** — Creativity Fourth
+`01/2026`
+
+</td></tr>
+<tr><td width="4"></td><td>
+
+**Technical Support IT Internship** — Ministry of Agriculture, Fisheries and Water Resources
+`01/2026 – 02/2026`
+
+</td></tr>
+</table>
 
 <br/>
 
@@ -93,7 +122,7 @@ public class JokhaAlHarthy {
 <td width="50%" valign="top">
 
 ### 🤖 Wajeeh
-Graduation project — an AI-powered itinerary planner (mobile app).
+Graduation project. An AI-powered travel itinerary planner that turns a user's preferences into a day-by-day plan — built end-to-end as a mobile app.
 
 `Java` `AI` `Mobile`
 
@@ -103,7 +132,7 @@ Graduation project — an AI-powered itinerary planner (mobile app).
 <td width="50%" valign="top">
 
 ### ✈️ RoamAura
-Full-stack web app generating personalized travel itineraries by preference, budget, and travel style — Rihal Training project.
+Full-stack web app that generates personalized travel itineraries based on budget, travel style, and preferences — built during Rihal's training program.
 
 `Full-Stack` `AI`
 
@@ -154,7 +183,7 @@ A students' reservation summaries system.
 
 <div align="center">
 
-### 📫 Let's Connect
+### 📫 I'm open to Software Engineering roles — let's talk
 
 <a href="https://www.linkedin.com/in/jokha-al-harthy-471788333">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
