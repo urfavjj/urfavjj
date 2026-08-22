@@ -161,7 +161,3 @@ A students' reservation summaries system.
 </a>
 
 <br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2E86AB&height=100&section=footer" width="100%"/>
-
-</div>
