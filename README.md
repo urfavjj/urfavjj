@@ -14,7 +14,7 @@
 <a href="mailto:jokha.hamed.offical@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://github.com/Jokha-AlHarthy">
+<a href="https://github.com/urfavjj">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <img src="https://img.shields.io/badge/Muscat%2C%20Oman-2E86AB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
