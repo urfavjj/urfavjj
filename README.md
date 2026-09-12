@@ -143,7 +143,7 @@ A students' reservation summaries system.
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Jokha-AlHarthy&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=urfavjj&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
