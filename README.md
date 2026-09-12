@@ -138,8 +138,9 @@ A students' reservation summaries system.
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Jokha-AlHarthy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jokha-AlHarthy&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=urfavjj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urfavjj&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
